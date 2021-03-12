@@ -1,5 +1,4 @@
 from random import *
-print ("Hello World")
 
 nAl = randint(0,100)
 n = input("Informe um número de 0 a 100: ")
